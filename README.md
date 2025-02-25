@@ -1,2 +1,2 @@
-# datascience
+# Datascience
 Principles of Data Science
